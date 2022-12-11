@@ -23,6 +23,7 @@ const Hero = () => {
                   href={item.url}
                   className="external-link social-link"
                   key={index}
+                  target="_blank"
                 >
                   <AiOutlineGithub />
                 </a>
