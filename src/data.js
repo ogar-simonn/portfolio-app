@@ -4,7 +4,7 @@ const projects = [
     description:
       "Comfy sloth is an e-commerce web app with a cart that allows a user to add item, delete Item and edit Items on the cart. I used auth0 for authentication of users.",
     links: {
-      liveSite: "https://comfy-sloth-web.netilfy.app",
+      liveSite: "https://comfy-sloth-web.netlify.app/",
       gitRepo: "https://github.com/ogar-simonn/comfy-sloth",
     },
   },
@@ -13,7 +13,7 @@ const projects = [
     description:
       "Rest countries app is a web app that uses the rest countries api to get info about countries displays those info. (It's a front end mentor challenge)",
     links: {
-      liveSite: "wwww.google.com",
+      liveSite: "https://rest-countries-app-main.netlify.app",
       gitRepo: "https://github.com/ogar-simonn/rest-countries-app",
     },
   },
